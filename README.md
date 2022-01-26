@@ -4,7 +4,7 @@
     <img src="images/dna.jpg" />
 <p>
 
-This repo contains generalizable quantitative genetics tools. Each directory contains code for a specific use case.
+QuanGene provides generalizable quantitative genetics tools within simple, easy-to-use Python scripts. Each directory contains code for a specific use case, see below for information on each directory. 
 # genetic_map 
   * genetic_map.py
     * Purpose: Runs pairwise comparisons between SNPs to calculate recombination frequencies. 
